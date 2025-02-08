@@ -2,3 +2,6 @@
 .venv
 project-venv/
 venv/
+*.csv
+*.zip
+.ipynb_checkpoints
