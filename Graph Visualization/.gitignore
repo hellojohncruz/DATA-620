@@ -1,0 +1,8 @@
+.DS_Store
+.venv
+project-venv/
+venv/
+.ipnyb_checkpoints
+*.zip
+*.csv
+*.txt
