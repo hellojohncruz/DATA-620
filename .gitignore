@@ -5,4 +5,4 @@ venv/
 *.csv
 *.zip
 .ipynb_checkpoints
-.parquet
+*.parquet
